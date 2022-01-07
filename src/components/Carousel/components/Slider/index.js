@@ -26,6 +26,10 @@ const Container = styled.ul`
   .slick-next {
     right: 16px;
   }
+
+  .slick-list {
+    height: 300px;
+  }
 `;
 
 export const SliderItem = styled.li`
